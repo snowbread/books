@@ -73,8 +73,8 @@
     - [8051微控制器](#8051微控制器)  
     - [单片微计算机原理及应用](#单片微计算机原理及应用)  
   - [设计架构](#设计架构)  
-    - [设计数据密集型应用(Designing Data-Intensive Applications)(DDIA)(https://github.com/Vonng/ddia)](#设计数据密集型应用designing-data-intensive-applicationsddiahttpsgithubcomvonngddia)  
-    - [架构整洁之道(Clean Architecture: A Craftsman's Guide to Software Structure and Design)(https://github.com/leewaiho/Clean-Architecture-zh/tree/master)](#架构整洁之道clean-architecture-a-craftsmans-guide-to-software-structure-and-designhttpsgithubcomleewaihoclean-architecture-zhtreemaster)  
+    - [设计数据密集型应用(Designing Data-Intensive Applications)(DDIA)](#设计数据密集型应用designing-data-intensive-applicationsddia)  
+    - [架构整洁之道(Clean Architecture: A Craftsman's Guide to Software Structure and Design)](#架构整洁之道clean-architecture-a-craftsmans-guide-to-software-structure-and-design)  
     - [计算机程序的构造和解释 : 原书第2版(SICP)](#计算机程序的构造和解释--原书第2版sicp)  
     - [代码大全（第2版）](#代码大全第2版)  
     - [Head First 设计模式（中文版）](#head-first-设计模式中文版)  
@@ -257,9 +257,11 @@
   
 ## 设计架构  
   
-### 设计数据密集型应用(Designing Data-Intensive Applications)(DDIA)(https://github.com/Vonng/ddia)  
+### 设计数据密集型应用(Designing Data-Intensive Applications)(DDIA)  
+(https://github.com/Vonng/ddia)  
   
-### 架构整洁之道(Clean Architecture: A Craftsman's Guide to Software Structure and Design)(https://github.com/leewaiho/Clean-Architecture-zh/tree/master)  
+### 架构整洁之道(Clean Architecture: A Craftsman's Guide to Software Structure and Design)  
+(https://github.com/leewaiho/Clean-Architecture-zh/tree/master)  
   
 ### 计算机程序的构造和解释 : 原书第2版(SICP)  
   
