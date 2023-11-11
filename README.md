@@ -258,10 +258,10 @@
 ## 设计架构  
   
 ### 设计数据密集型应用(Designing Data-Intensive Applications)(DDIA)  
-(https://github.com/Vonng/ddia)  
+https://github.com/Vonng/ddia  
   
 ### 架构整洁之道(Clean Architecture: A Craftsman's Guide to Software Structure and Design)  
-(https://github.com/leewaiho/Clean-Architecture-zh/tree/master)  
+https://github.com/leewaiho/Clean-Architecture-zh/tree/master  
   
 ### 计算机程序的构造和解释 : 原书第2版(SICP)  
   
